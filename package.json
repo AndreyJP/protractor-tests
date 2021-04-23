@@ -15,7 +15,7 @@
     "globals":[
       "beforeAll",
       "beforeEach",
-      "BhxBrowser",
+      "browser",
       "by",
       "describe",
       "element",
