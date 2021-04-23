@@ -1,0 +1,25 @@
+{
+  "name": "curso-protractor-tat",
+  "version": "1.0.0",
+  "description": "Projeto para o curso de Protractor da Escola TAT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlsf82/curso-protractor-tat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wlsf82/curso-protractor-tat/issues"
+  },
+  "homepage": "https://github.com/wlsf82/curso-protractor-tat#readme",
+  "devDependencies": {
+    "protractor": "^7.0.0",
+    "protractor-helper": "^4.2.1",
+    "standardjs": "^1.0.0-alpha"
+  }
+}
